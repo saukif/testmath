@@ -1,7 +1,7 @@
 <?php
 namespace MyMathLib;
 
-class Math {
+class MyMath {
     public function add($a, $b) {
         return $a + $b;
     }
