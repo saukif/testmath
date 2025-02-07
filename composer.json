@@ -1,0 +1,14 @@
+{
+    "name": "sakib/my-math",
+    "description": "A simple math library for testing", 
+    "license": "unlicense",
+    "authors": [
+        {
+            "name": "sakib yousuf"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "MyMathLib\\": "" }
+    }
+
+}
